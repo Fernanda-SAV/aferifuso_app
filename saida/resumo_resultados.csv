@@ -1,0 +1,6 @@
+imagem,quantidade,confianca,contornos,alerta,revisar
+img1.jpg,8,60,7,Possível sobreposição ou proximidade excessiva entre parafusos.,True
+img2.jpg,1,100,1,Leitura sem sinais fortes de agrupamento.,False
+img3.jpg,4,100,4,Leitura sem sinais fortes de agrupamento.,False
+img4.jpg,2,100,2,Leitura sem sinais fortes de agrupamento.,False
+img5.jpg,5,70,3,Possível sobreposição ou proximidade excessiva entre parafusos.,True
